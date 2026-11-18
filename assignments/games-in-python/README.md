@@ -28,6 +28,6 @@ Crie o loop principal da partida. Em cada rodada, mostre o progresso da palavra,
 O programa concluído deve:
 
 - Mostrar as letras adivinhadas nas posições corretas e indicar as letras ainda não descobertas
-- Receber um palpite de letra e atualizar o progresso ou o contador de palpites incorretos
+- Validar que cada palpite contém uma única letra e atualizar o progresso ou o contador de palpites incorretos
 - Encerrar a partida quando a palavra for descoberta ou as tentativas incorretas acabarem
 - Informar se o jogador venceu ou perdeu e revelar a palavra secreta ao final
