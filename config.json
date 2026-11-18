@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-apis-with-pytest",
+      "title": "Testing APIs with pytest",
+      "description": "Write automated tests for FastAPI endpoints with pytest and TestClient, including successful responses and 404 errors.",
+      "path": "assignments/testing-apis-with-pytest",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
